@@ -35,10 +35,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/LWGgamer/LWGgamer/output/snake.svg" alt="Snake animation" />
-
-###
-
 <br clear="both">
 
 <div align="center">
